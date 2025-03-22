@@ -9,7 +9,6 @@ body {
   font-size: 16px;
   color: #434455;
   background-color: #fff;
-  padding: 15px;
 }
 
 p,
@@ -202,10 +201,6 @@ img {
 
 .team {
   background-color: #F4F4FD;
-}
-
-.team-container {
-  padding: 120px 0;
   margin: 0 auto;
 }
 
@@ -217,7 +212,7 @@ img {
   text-align: center;
   color: #2E2F42;
   text-transform: capitalize;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .team-list {
@@ -238,7 +233,6 @@ img {
 }
 
 .team-subtitle {
-
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -306,7 +300,7 @@ img {
   letter-spacing: 0.02em;
 }
 
-.footer-container {
+.footer {
   padding: 100px 15px;
   background-color: #2E2F42
 }
